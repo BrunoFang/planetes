@@ -8,3 +8,5 @@ J'ajoute une ligne
 
 
 ajout directement par le site git hub
+
+Début d'un conflit.
