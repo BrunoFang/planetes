@@ -2,4 +2,11 @@ Je ne suis plus une planete
 
 Oui, je le suis encore!
 
-CONNNFLIT
+toto
+
+J'ajoute une ligne
+
+
+ajout directement par le site git hub
+
+Il n'y a plus de conflits.
